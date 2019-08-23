@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+body{
+    font-size: 12px;
+    margin: 0px;
+    font-family: 'Century Gothic','Futura','Didact Gothic',san-serif;
+}
+
+.header {
+    background-color: #C00002;
+    padding: 0px 20px;
+    color: white;
+    text-align: center;
+    font-size: 5mm
+}
+
+.phone {
+    float: left;
+}
+
+.email {
+    display: inline-block;
+    margin: 0 auto;
+
+}
+
+.linkedin {
+    float: right;
+}
