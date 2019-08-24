@@ -27,3 +27,37 @@ body{
 .linkedin {
     float: right;
 }
+
+.tabla-presentacion {
+    margin-top: 40px;
+    width: 100%
+}
+
+.name-table {
+    width: 50%;
+    text-align: right;
+    vertical-align: middle
+}
+
+.first-name{
+    font-size: 12mm;
+    margin: 0px
+}
+
+.second-names {
+    font-size: 6mm;
+    margin: 0px
+}
+
+.photo-table {
+    width: 50%;
+    vertical-align: middle;
+}
+
+.photo {
+    margin-left: 30px;
+    width: 120px;
+    height: 120px;
+    border: 2px black solid;
+    border-radius: 50%;
+}
