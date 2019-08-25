@@ -14,6 +14,12 @@ body{
     font-size: 5mm
 }
 
+.header-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px
+}
+
 .phone {
     float: left;
 }
