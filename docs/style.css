@@ -9,12 +9,9 @@ body{
 .header {
     background-color: #C00002;
     padding: 15px 20px;
-    color: white;
     font-size: 5mm;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin: auto
 }
 
 a {
