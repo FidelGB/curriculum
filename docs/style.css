@@ -20,20 +20,6 @@ body{
     margin-right: 10px
 }
 
-.phone {
-    float: left;
-}
-
-.email {
-    display: inline-block;
-    margin: 0 auto;
-
-}
-
-.linkedin {
-    float: right;
-}
-
 .tabla-presentacion {
     margin-top: 40px;
     width: 100%
