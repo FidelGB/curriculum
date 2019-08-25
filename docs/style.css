@@ -10,8 +10,11 @@ body{
     background-color: #C00002;
     padding: 0px 20px;
     color: white;
-    text-align: center;
-    font-size: 5mm
+    font-size: 5mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto
 }
 
 .header-icon {
